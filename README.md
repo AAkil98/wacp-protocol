@@ -6,7 +6,7 @@
 
 WACP defines the rules by which autonomous agents — particularly AI agents — coordinate work. It specifies what agents say, how they communicate, and the structures they operate within. It does not specify how the underlying system schedules, allocates, or manages resources; that is the domain of the operating system layer.
 
-This repository contains **only the protocol specification**. For the reference implementation (Rust runtime, middleware, CLI, and seven ecosystem verticals), see [Madahub-dev/wacp](https://github.com/Madahub-dev/wacp).
+This repository contains **only the protocol specification**. For the reference implementation (Rust runtime, middleware, CLI, and seven ecosystem verticals), see [AAkil98/wacp](https://github.com/AAkil98/wacp).
 
 ---
 
@@ -209,7 +209,7 @@ wacp-protocol/
 
 WACP has a Rust reference implementation in a separate repository:
 
-**[github.com/Madahub-dev/wacp](https://github.com/Madahub-dev/wacp)** — licensed under Apache-2.0.
+**[github.com/AAkil98/wacp](https://github.com/AAkil98/wacp)** — licensed under Apache-2.0.
 
 The reference implementation includes:
 
@@ -254,4 +254,4 @@ This work is licensed under [Creative Commons Attribution-ShareAlike 4.0 Interna
 
 You are free to share and adapt this material for any purpose, including commercially, provided you give appropriate credit and distribute contributions under the same license.
 
-The **reference implementation** at [github.com/Madahub-dev/wacp](https://github.com/Madahub-dev/wacp) is separately licensed under **Apache-2.0**. Code that implements this protocol is not a derivative work of the specification in the CC BY-SA 4.0 share-alike sense; implementers may license their implementations under any compatible license.
+The **reference implementation** at [github.com/AAkil98/wacp](https://github.com/AAkil98/wacp) is separately licensed under **Apache-2.0**. Code that implements this protocol is not a derivative work of the specification in the CC BY-SA 4.0 share-alike sense; implementers may license their implementations under any compatible license.
